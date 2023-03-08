@@ -7,23 +7,23 @@
 	<key>CFBundleExecutable</key>
 	<string>plugin</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.justfont.NodeCounterBetweenMasters</string>
+	<string>com.rutopio.NodeCounterBetweenMasters</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
 	<string>NodeCounterBetweenMasters</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.3</string> <!-- 1.0 -->
+	<string>2.0.4</string>
 	<key>CFBundleVersion</key>
-	<string>122</string> <!-- 123 -->
+	<string>7</string>
 	<key>UpdateFeedURL</key>
-	<string></string>
+	<string>https://raw.githubusercontent.com/rutopio/Node-Counter-Between-Masters/master/NodeCounterBetweenMasters.glyphsReporter/Contents/Info.plist</string>
 	<key>productPageURL</key>
-	<string></string>
+	<string>https://github.com/rutopio/Node-Counter-Between-Masters</string>
 	<key>productReleaseNotes</key>
-	<string>Latest code base, scaling threshold</string>
+	<string>update binary files for Glyphs3</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright, justfont, 2023</string>
+	<string>Copyright, ChingRu, 2023</string>
 	<key>NSPrincipalClass</key>
 	<string>NodeCounterBetweenMasters</string>
 	<key>PyMainFileNames</key>
