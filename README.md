@@ -5,7 +5,9 @@
 
 A [Glyphs.app](https://glyphsapp.com/) plugin to display the number of nodes between multiple masters for checking compatibility easily.
 
-用來顯示多個主板之間的路徑總節點數，用來對主板之間的相容性。
+用來顯示多個主板之間的路徑總節點數，可以更好的檢查主板之間的相容性。
+
+用来显示多个主板之间的路径总节点数，可以更好的检查主板之间的相容性。
 
 |Check ✅|Waring ❌|
 |:---:|:---:|
